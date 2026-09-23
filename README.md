@@ -13,9 +13,9 @@
 
 # Sobre Mim
 
-Sou um **estudante de Segurança da Informação** pela **ULBRA** (Universidade Luterana do Brasil), apaixonado por cibersegurança e desenvolvimento de soluções seguras.
+Sou um **estudante de Segurança da Informação** pela **ULBRA** (Universidade Luterana do Brasil), interessado por cibersegurança e desenvolvimento de soluções seguras.
 
-Estou em jornada contínua de aprendizado, explorando as melhores práticas de segurança ofensiva e defensiva.
+Estou em aprendizado, explorando as melhores práticas de segurança ofensiva e defensiva.
 
 ---
 
@@ -28,8 +28,6 @@ Estou em jornada contínua de aprendizado, explorando as melhores práticas de s
 -  **Engenharia Reversa**
 
 ---
-
-# Tecnologias & Ferramentas
 
 # Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
